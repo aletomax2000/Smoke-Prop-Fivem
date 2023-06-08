@@ -25,3 +25,6 @@ https://youtu.be/X4Kwbjh4EeM
 ![ALETOMAX_PROPSMOKE_15](https://github.com/aletomax2000/Smoke-Prop-Fivem/assets/35933361/43c8d3ff-a776-4105-adaf-528b0e56280e)
 ![ALETOMAX_PROPSMOKE_16](https://github.com/aletomax2000/Smoke-Prop-Fivem/assets/35933361/b54b97eb-f12c-4421-878e-cb3d484657f3)
 ![ALETOMAX_PROPSMOKE_17](https://github.com/aletomax2000/Smoke-Prop-Fivem/assets/35933361/5f20730a-2106-4e73-8243-d12ea63d1dbe)
+
+SITE: https://www.aletomax.it/home
+TEBEX: https://aletomax-shop.tebex.io/

@@ -28,3 +28,4 @@ https://youtu.be/X4Kwbjh4EeM
 
 SITE: https://www.aletomax.it/home
 TEBEX: https://aletomax-shop.tebex.io/
+DISCORD: https://discord.gg/SaFJtcmxK5
